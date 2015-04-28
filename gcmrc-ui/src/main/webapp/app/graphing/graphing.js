@@ -202,7 +202,7 @@ GCMRC.Graphing = function(hoursOffset) {
 			xAxisHeight: 50,
 			axes: axes,
 			yRangePad: 1,
-//			includeZero: true,
+			includeZero: true,
 			labels: labels,
 			dateWindow : dateWindow,
 			originalDateWindow : dateWindow,
